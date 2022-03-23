@@ -2,7 +2,8 @@ import os
 from pytube import YouTube
 
 def start() :  
-    print("hello")
+    print("YOUTUBE DOWNLOADER MADE BY BLENDERSKY")
+    print("HTTPS://BLENDERSKY.COM")
     link()
 def link() :
     link = input("Paste link here\n>>")
